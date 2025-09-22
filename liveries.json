@@ -30,5 +30,24 @@
     },
     "hash": "v1",
     "dev": "Ben"
+  },
+   {
+    "id": "AviatesAirAtr72BaseLivery",
+    "title": "AviatesAir — Base Livery",
+    "author": "Z0MB1XCAT",
+    "aircraft": "ATR72",
+    "airline": "AviatesAir",
+    "category": "ATR",
+    "image": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/thumbnailavyatr72.jpg",
+    "variants": {
+      "2020": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/ATR72-600-AviatesAir-Livery.zip",
+      "2024": {
+        "4k": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/ATR72-600-AviatesAir-Livery.zip",
+        "8k": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/ATR72-600-AviatesAir-Livery.zip"
+      }
+    },
+    "hash": "v1",
+    "dev": "Z0MB"
   }
 ]
+
