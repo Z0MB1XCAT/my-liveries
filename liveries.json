@@ -1,0 +1,20 @@
+[
+  {
+    "id": "AviatesAirOneWorld",
+    "title": "AviatesAir — OneWorld",
+    "author": "Z0MB1XCAT",
+    "aircraft": "A32NX",
+    "airline": "AviatesAir",
+    "category": "Airbus",
+    "image": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/thumbnail.jpg",
+    "variants": {
+      "2020": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/Fbw-A32NX-AviatesAirOneWorld-Livery.zip",
+      "2024": {
+        "4k": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/Fbw-A32NX-AviatesAirOneWorld-Livery.zip",
+        "8k": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/Fbw-A32NX-AviatesAirOneWorld-Livery.zip"
+      }
+    },
+    "hash": "v1",
+    "dev": "Z0MB"
+  }
+]
