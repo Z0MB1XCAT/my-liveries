@@ -16,5 +16,19 @@
     },
     "hash": "v1",
     "dev": "Z0MB"
+  },
+  {
+    "id": "AviatesAirBaseLivery",
+    "title": "AviatesAir — Base Livery",
+    "author": "Ben Aviates",
+    "aircraft": "B739ER",
+    "airline": "AviatesAir",
+    "category": "Boeing",
+    "image": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/thumbnailavab739.JPG",
+    "variants": {
+      "2020": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/pmdg-aircraft-739-AviatesAir_klx0W.zip"
+    },
+    "hash": "v1",
+    "dev": "Ben"
   }
 ]
