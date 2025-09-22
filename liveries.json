@@ -14,7 +14,7 @@
         "8k": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/Fbw-A32NX-AviatesAirOneWorld-Livery.zip"
       }
     },
-    "hash": "v1",
+    "hash": "v2",
     "dev": "Z0MB"
   },
   {
@@ -28,7 +28,7 @@
     "variants": {
       "2020": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/pmdg-aircraft-739-AviatesAir_klx0W.zip"
     },
-    "hash": "v1",
+    "hash": "v2",
     "dev": "Ben"
   },
    {
@@ -46,8 +46,9 @@
         "8k": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/ATR72-600-AviatesAir-Livery.zip"
       }
     },
-    "hash": "v1",
+    "hash": "v2",
     "dev": "Z0MB"
   }
 ]
+
 
