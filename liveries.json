@@ -1,38 +1,38 @@
 [
-{
-"id": "AviatesAirOneWorld",
-"title": "AviatesAir — OneWorld",
-"author": "Z0MB1XCAT",
-"aircraft": "A32NX",
-"airline": "AviatesAir",
-"category": "Airbus",
-"image": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/thumbnail.jpg",
-"variants": {
-"2020": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/Fbw-A32NX-AviatesAirOneWorld-Livery.zip",
-"2024": {
-"4k": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/Fbw-A32NX-AviatesAirOneWorld-Livery-4k.zip",
-"8k": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/Fbw-A32NX-AviatesAirOneWorld-Livery-8k.zip"
-}
-},
-"hash": "v1",
-"dev": "Z0MB",
-"tags": ["MSFS 2020", "MSFS 2024", "Featured"]
-},
-{
-"id": "AviatesAirBaseLivery",
-"title": "AviatesAir — Base Livery",
-"author": "Ben Aviates",
-"aircraft": "B739ER",
-"airline": "AviatesAir",
-"category": "Boeing",
-"image": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/thumbnailavab739.JPG",
-"variants": {
-"2020": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/pmdg-aircraft-739-AviatesAir_klx0W.zip"
-},
-"hash": "v1",
-"dev": "Ben",
-"tags": ["MSFS 2020", "Cabin"]
-}
+  {
+    "id": "AviatesAirOneWorld",
+    "title": "AviatesAir — OneWorld",
+    "author": "Z0MB1XCAT",
+    "aircraft": "A32NX",
+    "airline": "AviatesAir",
+    "category": "Airbus",
+    "image": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/thumbnail.jpg",
+    "variants": {
+      "2020": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/Fbw-A32NX-AviatesAirOneWorld-Livery.zip",
+      "2024": {
+        "4k": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/Fbw-A32NX-AviatesAirOneWorld-Livery.zip",
+        "8k": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/Fbw-A32NX-AviatesAirOneWorld-Livery.zip"
+      }
+    },
+    "hash": "v1",
+    "dev": "Z0MB",
+    "tags": ["MSFS 2024", "Featured"]
+  },
+  {
+    "id": "AviatesAirBaseLivery",
+    "title": "AviatesAir — Base Livery",
+    "author": "Ben Aviates",
+    "aircraft": "B739ER",
+    "airline": "AviatesAir",
+    "category": "Boeing",
+    "image": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/thumbnailavab739.JPG",
+    "variants": {
+      "2020": "https://github.com/Z0MB1XCAT/my-liveries/releases/download/livery/pmdg-aircraft-739-AviatesAir_klx0W.zip"
+    },
+    "hash": "v1",
+    "dev": "Ben",
+    "tags": ["MSFS 2020", "Cabin"]
+  }
 ]
 
 
